@@ -28,3 +28,7 @@ $ python3 main.py
 > Email sender account:
 > Email sender password:
 ```
+
+## TODO:
+
+- Eliminar los mails de la casilla de enviados.
